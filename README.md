@@ -26,4 +26,7 @@ Other Ideas
 
 ##FAQ
 
+### Why Bukkit and what about Sponge or insert other minecraft API here?
+Bukkit because the current server that has a small but decent player base is on a bukkit server allowing for the service and plugin to be hardened. The Stucture of this project that the server API and JSON schemas be as common as possibles so that other servers can just implenet the plugin and so long as the JSON schemas match there they should be abke to use the service
+
 
