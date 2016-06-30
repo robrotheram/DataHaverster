@@ -1,17 +1,19 @@
-############################################################
-Server
-  Users:
-        -register
-        -login
-          * generate token - session data store in mem
-        -password-reset
-  Server
-    - add a new server
-    - generate a access key for the server
+#Todo
+
+##Server
+- Users:
+        - [ ] Register
+        - [ ] Login
+        - [ ] Generate token - session data store in mem
+        - [ ] Password-reset
+- Server
+    - [ ] Add a new server to db
+    - [ ] Generate a access key for the server
     
-  Ingestion api
-    - endpoints for
-      - Server
-      - Block envents
-      - Player events
-      - World events
+- Ingestion api
+    - [ ] endpoints for
+      - [ ] Server
+      - [ ] Block envents
+      - [ ] Player events
+      - [ ] World events
+    - [ ] auth for all endpoints
