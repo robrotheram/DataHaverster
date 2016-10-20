@@ -1,0 +1,9 @@
+[submodule "ProjectBarzan"]
+	path = ProjectBarzan
+	url = https://github.com/robrotheram/ProjectBarzan.git
+[submodule "DeltaQuadrant"]
+	path = DeltaQuadrant
+	url = https://github.com/robrotheram/DeltaQuadrant.git
+[submodule "KafkaToMongo"]
+	path = KafkaToMongo
+	url = https://github.com/robrotheram/KafkaToMongo.git
